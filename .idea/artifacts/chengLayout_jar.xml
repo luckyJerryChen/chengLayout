@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chengLayout:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chengLayout_jar</output-path>
+    <root id="archive" name="chengLayout.jar">
+      <element id="module-output" name="chengLayout" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../虚拟机共享/spark-1.4.1/lib/spark-assembly-1.4.1-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

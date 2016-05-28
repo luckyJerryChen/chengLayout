@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="chenglayout">
+    <output-path>$PROJECT_DIR$/out/artifacts/chenglayout</output-path>
+    <root id="archive" name="chenglayout.jar">
+      <element id="module-output" name="chengLayout" />
+    </root>
+  </artifact>
+</component>
